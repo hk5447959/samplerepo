@@ -1,3 +1,5 @@
 Bearing - Part Number GP-001
 Material: Steel
 Weight: 2.5 kg
+
+
